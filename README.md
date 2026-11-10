@@ -1,8 +1,8 @@
-# Proyectos de Assembly
+# Proyecto de Assembly
 
-Este repositorio contiene dos proyectos desarrollados en lenguaje Assembly x86 de 16 bits como parte de mi formación en la Escuela Superior Politécnica del Litoral (ESPOL).
+Este repositorio contiene proyecto desarrollado en lenguaje Assembly x86 de 16 bits como parte de mi formación en la Escuela Superior Politécnica del Litoral (ESPOL).
 
-## Proyecto 1: Conversor de Bases Numéricas
+## Proyecto: Conversor de Bases Numéricas
 
 Este programa es un conversor interactivo de bases numéricas que permite convertir números entre las bases decimal, binaria y hexadecimal. El usuario puede seleccionar el tipo de conversión deseada a través de un menú de opciones.
 
@@ -30,9 +30,6 @@ Este programa es un conversor interactivo de bases numéricas que permite conver
 - Assembly x86 de 16 bits
 - Emulador emu8086
 
-## Proyecto 2: [Nombre del segundo proyecto]
-
-[Breve descripción del segundo proyecto]
 
 [Instrucciones o detalles relevantes del segundo proyecto]
 
