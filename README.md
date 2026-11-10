@@ -31,7 +31,6 @@ Este programa es un conversor interactivo de bases numéricas que permite conver
 - Emulador emu8086
 
 
-[Instrucciones o detalles relevantes del segundo proyecto]
 
 ## Autor
 Juan Pablo Arenas Tituaña - Estudiante de la ESPOL
